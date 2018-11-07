@@ -1,0 +1,6 @@
+framework module Pods_DemoViewResponse {
+  umbrella header "Pods-DemoViewResponse-umbrella.h"
+
+  export *
+  module * { export * }
+}
